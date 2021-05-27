@@ -1,9 +1,8 @@
 ---
-title: "Presentation Ninja"
-subtitle: "&#x2694;&#xFE0F; xaringan +<br/>&#x1F60E; xaringanthemer"  
+title: "PhD progress meeting"
+subtitle: "Plans for last year"  
 author: 
-  - "Yihui Xie"
-  - "Garrick Aden-Buie"
+  - "Ariel Mundo"
 date: '`r Sys.Date()`'
 output:
   xaringan::moon_reader:
